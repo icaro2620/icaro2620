@@ -4,46 +4,46 @@
 
 ### Software Engineer · Full Stack & Mobile Developer
 
-**Software útil. Experiencias accesibles. Tecnología con propósito.**
+**Useful software. Accessible experiences. Technology with purpose.**
 
-[Sitio personal](https://icaro2620.github.io/icaro2620/) · [GitHub](https://github.com/icaro2620) · [LinkedIn](https://www.linkedin.com/in/johan-rodriguez-ruales-sd8) · [7SD](https://7sd.tech/) · [NSLS / SocietyJobBank](https://societyleadership-csm.symplicity.com/profiles/johanmauriciorodriguezruales) · [App Store](https://apps.apple.com/pe/developer/johan-rodriguez-ruales/id1848634350)
+[Personal website](https://icaro2620.github.io/icaro2620/) · [GitHub](https://github.com/icaro2620) · [LinkedIn](https://www.linkedin.com/in/johan-rodriguez-ruales-sd8) · [7SD](https://7sd.tech/) · [NSLS / SocietyJobBank](https://societyleadership-csm.symplicity.com/profiles/johanmauriciorodriguezruales) · [App Store](https://apps.apple.com/pe/developer/johan-rodriguez-ruales/id1848634350)
 
 </div>
 
 ---
 
-## Sobre mí
+## About me
 
-Soy **Johan Rodriguez Ruales**, Software Engineer especializado en desarrollo Full Stack y aplicaciones móviles, con interés en inteligencia artificial y automatización.
+I’m **Johan Rodriguez Ruales**, a Software Engineer specializing in Full Stack and mobile application development, with an interest in artificial intelligence and automation.
 
-Desarrollo herramientas que convierten necesidades reales en experiencias claras y prácticas. Mi trabajo combina ingeniería de software, atención a la experiencia de usuario y accesibilidad.
+I build tools that turn real needs into clear, practical experiences. My work combines software engineering, user experience, and accessibility.
 
-## Áreas de enfoque
+## Areas of focus
 
-| Área | Enfoque |
+| Area | Focus |
 | --- | --- |
-| Full Stack | Aplicaciones web e integración de servicios. |
-| Desarrollo móvil | Experiencias para dispositivos móviles. |
-| Inteligencia artificial y automatización | Herramientas que simplifican tareas y procesos. |
-| Accesibilidad | Interfaces visuales que facilitan el uso de la tecnología. |
+| Full Stack | Web applications and service integrations. |
+| Mobile development | Experiences for mobile devices. |
+| Artificial intelligence and automation | Tools that simplify tasks and workflows. |
+| Accessibility | Visual interfaces that make technology easier to use. |
 
-## Proyecto destacado · Verbal Spectrum
+## Featured project · Verbal Spectrum
 
-**Una aplicación de comunicación visual para expresar necesidades, sentimientos e ideas.**
+**A visual communication app for expressing needs, feelings, and ideas.**
 
-Verbal Spectrum permite organizar iconos en cuadrículas personalizables, crear botones y carpetas, y combinar selecciones para construir frases con narración. Está pensada para niños, familias y educadores.
+Verbal Spectrum organizes icons into customizable grids, supports creating buttons and folders, and combines selections into spoken phrases. It is designed for children, families, and educators.
 
-**[Explorar Verbal Spectrum en App Store →](https://apps.apple.com/co/app/verbal-spectrum/id6757182398)**
+**[Explore Verbal Spectrum on the App Store →](https://apps.apple.com/co/app/verbal-spectrum/id6757182398)**
 
-## Presencia profesional
+## Professional presence
 
-| Plataforma | Enlace |
+| Platform | Link |
 | --- | --- |
-| GitHub | [icaro2620 · Código y proyectos](https://github.com/icaro2620) |
-| LinkedIn | [Johan Rodriguez Ruales · Perfil profesional](https://www.linkedin.com/in/johan-rodriguez-ruales-sd8) |
-| 7SD | [Software Development · Sitio web](https://7sd.tech/) |
-| NSLS / SocietyJobBank | [Johan Mauricio Rodriguez Ruales · Perfil](https://societyleadership-csm.symplicity.com/profiles/johanmauriciorodriguezruales) |
-| App Store | [Johan Rodriguez Ruales · Aplicaciones publicadas](https://apps.apple.com/pe/developer/johan-rodriguez-ruales/id1848634350) |
+| GitHub | [icaro2620 · Code and projects](https://github.com/icaro2620) |
+| LinkedIn | [Johan Rodriguez Ruales · Professional profile](https://www.linkedin.com/in/johan-rodriguez-ruales-sd8) |
+| 7SD | [Software Development · Website](https://7sd.tech/) |
+| NSLS / SocietyJobBank | [Johan Mauricio Rodriguez Ruales · Profile](https://societyleadership-csm.symplicity.com/profiles/johanmauriciorodriguezruales) |
+| App Store | [Johan Rodriguez Ruales · Published applications](https://apps.apple.com/pe/developer/johan-rodriguez-ruales/id1848634350) |
 
 ---
 
@@ -51,10 +51,10 @@ Verbal Spectrum permite organizar iconos en cuadrículas personalizables, crear 
 
 **Johan Rodriguez Ruales** · Software Engineer
 
-[Conectar en LinkedIn](https://www.linkedin.com/in/johan-rodriguez-ruales-sd8)
+[Connect on LinkedIn](https://www.linkedin.com/in/johan-rodriguez-ruales-sd8)
 
 </div>
 
-### Datos públicos del perfil
+### Public profile data
 
-[Ficha de identidad profesional (JSON)](https://github.com/icaro2620/icaro2620/blob/main/profile.json) · [Resumen de fuentes y enlaces](https://github.com/icaro2620/icaro2620/blob/main/llms.txt)
+[Professional identity (JSON)](https://github.com/icaro2620/icaro2620/blob/main/profile.json) · [Sources and links](https://github.com/icaro2620/icaro2620/blob/main/llms.txt)
