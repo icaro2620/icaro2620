@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Johan Rodriguez Ruales",
+  "alternateName": [
+    "JOHAN RODRIGUEZ RUALES",
+    "icaro2620"
+  ],
+  "jobTitle": "Software Engineer",
+  "description": "Software Engineer especializado en desarrollo Full Stack y aplicaciones móviles, con interés en inteligencia artificial, automatización y accesibilidad.",
+  "url": "https://github.com/icaro2620",
+  "sameAs": [
+    "https://www.linkedin.com/in/johan-rodriguez-ruales-sd8",
+    "https://societyleadership-csm.symplicity.com/profiles/johanmauriciorodriguezruales",
+    "https://apps.apple.com/pe/developer/johan-rodriguez-ruales/id1848634350"
+  ],
+  "knowsAbout": [
+    "Software Engineering",
+    "Full Stack Development",
+    "Mobile Development",
+    "Artificial Intelligence",
+    "Automation",
+    "Accessibility"
+  ],
+  "subjectOf": [
+    {
+      "@type": "WebPage",
+      "name": "Perfil profesional de Johan Rodriguez Ruales",
+      "url": "https://github.com/icaro2620/icaro2620"
+    },
+    {
+      "@type": "WebPage",
+      "name": "7SD — Software Development",
+      "url": "https://7sd.tech/"
+    }
+  ],
+  "mainEntityOfPage": "https://github.com/icaro2620"
+}
