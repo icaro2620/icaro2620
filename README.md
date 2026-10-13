@@ -54,3 +54,7 @@ Verbal Spectrum permite organizar iconos en cuadrículas personalizables, crear 
 [Conectar en LinkedIn](https://www.linkedin.com/in/johan-rodriguez-ruales-sd8)
 
 </div>
+
+### Datos públicos del perfil
+
+[Ficha de identidad profesional (JSON)](https://github.com/icaro2620/icaro2620/blob/main/profile.json) · [Resumen de fuentes y enlaces](https://github.com/icaro2620/icaro2620/blob/main/llms.txt)
