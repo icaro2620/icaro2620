@@ -6,7 +6,7 @@
 
 **Software útil. Experiencias accesibles. Tecnología con propósito.**
 
-[GitHub](https://github.com/icaro2620) · [LinkedIn](https://www.linkedin.com/in/johan-rodriguez-ruales-sd8) · [7SD](https://7sd.tech/) · [NSLS / SocietyJobBank](https://societyleadership-csm.symplicity.com/profiles/johanmauriciorodriguezruales) · [App Store](https://apps.apple.com/pe/developer/johan-rodriguez-ruales/id1848634350)
+[Sitio personal](https://icaro2620.github.io/icaro2620/) · [GitHub](https://github.com/icaro2620) · [LinkedIn](https://www.linkedin.com/in/johan-rodriguez-ruales-sd8) · [7SD](https://7sd.tech/) · [NSLS / SocietyJobBank](https://societyleadership-csm.symplicity.com/profiles/johanmauriciorodriguezruales) · [App Store](https://apps.apple.com/pe/developer/johan-rodriguez-ruales/id1848634350)
 
 </div>
 
