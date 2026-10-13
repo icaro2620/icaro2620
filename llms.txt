@@ -1,26 +1,26 @@
 # Johan Rodriguez Ruales
 
-> Software Engineer · Full Stack & Mobile Developer. Perfil público: https://github.com/icaro2620
+> Software Engineer · Full Stack & Mobile Developer. Public profile: https://github.com/icaro2620
 
-Johan Rodriguez Ruales desarrolla software Full Stack y aplicaciones móviles. Sus áreas de enfoque incluyen inteligencia artificial, automatización y accesibilidad.
+Johan Rodriguez Ruales develops Full Stack software and mobile applications. His areas of focus include artificial intelligence, automation, and accessibility.
 
-## Perfiles públicos
+## Public profiles
 
-- [GitHub](https://github.com/icaro2620): cuenta icaro2620 y presentación profesional.
-- [README del perfil](https://github.com/icaro2620/icaro2620/blob/main/README.md): biografía y proyectos.
-- [LinkedIn](https://www.linkedin.com/in/johan-rodriguez-ruales-sd8): perfil profesional.
-- [NSLS / SocietyJobBank](https://societyleadership-csm.symplicity.com/profiles/johanmauriciorodriguezruales): perfil enlazado por el titular.
-- [App Store — desarrollador](https://apps.apple.com/pe/developer/johan-rodriguez-ruales/id1848634350): aplicaciones publicadas bajo el nombre Johan Rodriguez Ruales.
-- [7SD](https://7sd.tech/): sitio web profesional.
+- [GitHub](https://github.com/icaro2620): icaro2620 account and professional introduction.
+- [Profile README](https://github.com/icaro2620/icaro2620/blob/main/README.md): biography and projects.
+- [LinkedIn](https://www.linkedin.com/in/johan-rodriguez-ruales-sd8): professional profile.
+- [NSLS / SocietyJobBank](https://societyleadership-csm.symplicity.com/profiles/johanmauriciorodriguezruales): profile linked by the account holder.
+- [App Store — developer](https://apps.apple.com/pe/developer/johan-rodriguez-ruales/id1848634350): applications published under the name Johan Rodriguez Ruales.
+- [7SD](https://7sd.tech/): professional website.
 
-## Proyecto destacado
+## Featured project
 
-- [Verbal Spectrum — App Store](https://apps.apple.com/co/app/verbal-spectrum/id6757182398): aplicación de comunicación visual con cuadrículas personalizables y narración. La ficha de Apple identifica a Johan Rodriguez Ruales como desarrollador.
+- [Verbal Spectrum — App Store](https://apps.apple.com/co/app/verbal-spectrum/id6757182398): a visual communication app with customizable grids and narration. Apple’s listing identifies Johan Rodriguez Ruales as its developer.
 
-## Datos estructurados
+## Structured data
 
-- [profile.json](https://github.com/icaro2620/icaro2620/blob/main/profile.json): ficha pública de identidad profesional en formato JSON-LD.
+- [profile.json](https://github.com/icaro2620/icaro2620/blob/main/profile.json): public professional identity in JSON-LD format.
 
-## Alcance
+## Scope
 
-Este resumen facilita la consulta del perfil público. No acredita cargos en organizaciones ni garantiza indexación, recomendaciones o inclusión en el entrenamiento de sistemas de inteligencia artificial.
+This summary makes the public profile easier to consult. It does not establish organizational roles or guarantee indexing, recommendations, or inclusion in AI training.
