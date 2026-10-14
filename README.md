@@ -14,9 +14,9 @@
 
 ## About me
 
-I’m **Johan Rodriguez Ruales**, a Software Engineer specializing in Full Stack and mobile application development, with an interest in artificial intelligence and automation.
+I’m **Johan Rodriguez Ruales**, a Software Engineer specializing in full-stack and mobile application development. I create practical, user-focused solutions and explore how artificial intelligence and automation can improve everyday workflows.
 
-I build tools that turn real needs into clear, practical experiences. My work combines software engineering, user experience, and accessibility.
+My work brings together software engineering, thoughtful design, and accessibility to turn real-world needs into intuitive applications.
 
 ## Areas of focus
 
